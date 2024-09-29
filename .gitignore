@@ -1,2 +1,48 @@
 Ambiente de Impressão/
 Ambiente de Rede/
+# Ignorar pastas e arquivos de sistema/pessoais
+Ambiente de Impressão/
+Ambiente de Rede/
+Configurações Locais/
+Cookies/
+Dados de Aplicativos/
+Menu Iniciar/
+Meus Documentos/
+Modelos/
+Recent/
+SendTo/
+
+# Ignorar pastas e arquivos de sistema/pessoais
+Ambiente de Impressão/
+Ambiente de Rede/
+Configurações Locais/
+Cookies/
+Dados de Aplicativos/
+Menu Iniciar/
+Meus Documentos/
+Modelos/
+Recent/
+SendTo/
+
+# Ignorar pastas específicas
+.anaconda/
+.bash_history
+.cache/
+.conda/
+.continuum/
+.gitconfig
+.gradle/
+.invision-studio/
+.ipython/
+.lesshst
+.nbi/
+.node_repl_history
+.pjeOffice/
+.receitanet/
+.rfb/
+.streamlit/
+.vscode/
+OneDrive/
+PycharmProjects/
+anaconda3/
+
